@@ -12,6 +12,4 @@ heroImageStyle: {
 isShowTitleInHome: false
 isShowComments: false
 visits: false
-actionText: about
-actionLink: /views/other/about
 ---

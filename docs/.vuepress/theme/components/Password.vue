@@ -16,10 +16,6 @@
 
     <div class="footer">
       <span>
-        <i class="iconfont reco-theme"></i>
-        <a target="blank" href="https://vuepress-theme-reco.recoluan.com">vuePress-theme-reco</a>
-      </span>
-      <span>
         <i class="iconfont reco-other"></i>
         <a>{{ $themeConfig.author || $site.title }}</a>
       </span>
@@ -45,7 +41,7 @@ export default {
   name: 'Password',
   data () {
     return {
-      warningText: 'Konck! Knock!',
+      warningText: 'Duang! Duang!',
       key: ''
     }
   },
@@ -87,7 +83,7 @@ export default {
       this.warningText = 'Input Your Key'
     },
     inputBlur () {
-      this.warningText = 'Konck! Knock!'
+      this.warningText = 'Duang! Duang!'
     }
   }
 }

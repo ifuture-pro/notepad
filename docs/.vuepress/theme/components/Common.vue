@@ -79,7 +79,7 @@ export default {
 
     showComment () {
       const { frontmatter } = this.$page
-      return frontmatter.isShowComments
+      return frontmatter.isShowComments !== false && this.isComment !== false
     },
 
     shouldShowSidebar () {

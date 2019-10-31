@@ -21,3 +21,5 @@ categories:
 <!-- more -->
 
 # 记录点点滴滴
+
+![An image](./head.png)
