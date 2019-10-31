@@ -7,11 +7,11 @@ deploy:
   provider: pages
   skip-cleanup: true
   local_dir: public # 项目打包后生成的文件的目录
-  github-token: $GITHUB_TOKEN # 这里这个变量就是刚才配置 token 时填写的那个变量
-  target-branch: master
+  #github-token: $GITHUB_TOKEN # 这里这个变量就是刚才配置 token 时填写的那个变量
+  target-branch: gh-pages-source
   keep-history: true
   on:
-    branch: gh-pages-source
+    branch: master
 branches:
   only:
-  - gh-pages-source
+  - master
