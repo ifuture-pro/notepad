@@ -8,7 +8,7 @@ module.exports = {
       "link",
       {
         "rel": "icon",
-        "href": "/favicon.ico"
+        "href": "favicon.ico"
       }
     ],
     [
@@ -58,7 +58,7 @@ module.exports = {
       appId: 'ye1OoWUwxvVJ0CYfkOeSev7E-gzGzoHsz',
       appKey: 'PNcuKvg9I0fUCdLVWTITSmBQ',
     },
-    "logo": "/head.png",
+    "logo": "head.png",
     "GAID": "UA-151103127-1",
     "search": true,
     "searchMaxSuggestions": 10,
