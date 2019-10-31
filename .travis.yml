@@ -8,7 +8,7 @@ deploy:
   skip-cleanup: true
   local_dir: public # 项目打包后生成的文件的目录
   github-token: $GITHUB_TOKEN
-  target-branch: gh-pages-source
+  target-branch: gh-pages
   keep-history: true
   on:
     branch: master
