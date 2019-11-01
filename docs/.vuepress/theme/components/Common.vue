@@ -5,8 +5,7 @@
     @touchstart="onTouchStart"
     @touchend="onTouchEnd">
     <transition name="fade">
-      <LoadingPage v-if="firstLoad"></LoadingPage>
-      <Password v-else-if="!isHasKey"></Password>
+      <Password v-if="!isHasKey"></Password>
       <div v-else>
         <Navbar
         v-if="shouldShowNavbar"
@@ -43,7 +42,6 @@ import Navbar from '@theme/components/Navbar.vue'
 import Sidebar from '@theme/components/Sidebar.vue'
 import { resolveSidebarItems } from '../util'
 import Password from '@theme/components/Password'
-import { setTimeout } from 'timers'
 
 export default {
   components: { Sidebar, Navbar, Password },
@@ -54,8 +52,7 @@ export default {
     return {
       isSidebarOpen: false,
       isHasKey: true,
-      isHasPageKey: true,
-      firstLoad: true
+      isHasPageKey: true
     }
   },
 
@@ -121,7 +118,6 @@ export default {
 
     this.hasKey()
     this.hasPageKey()
-    this.handleLoading()
   },
 
   methods: {
@@ -133,7 +129,7 @@ export default {
       }
 
       const keys = keyPage.keys
-      this.isHasKey = keys && keys.indexOf(sessionStorage.getItem('key')) > -1
+      this.isHasKey = keys //&& keys.indexOf(sessionStorage.getItem('key')) > -1
     },
     hasPageKey () {
       const pageKeys = this.$frontmatter.keys
@@ -166,14 +162,6 @@ export default {
           this.toggleSidebar(false)
         }
       }
-    },
-
-    handleLoading () {
-      const time = this.$frontmatter.home && sessionStorage.getItem('firstLoad') == undefined ? 1000 : 0
-      setTimeout(() => {
-        this.firstLoad = false
-        if (sessionStorage.getItem('firstLoad') == undefined) sessionStorage.setItem('firstLoad', false)
-      }, time)
     }
   },
 

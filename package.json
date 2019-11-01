@@ -10,7 +10,6 @@
     "vuepress": "1.2.0",
     "vue-click-outside": "^1.0.7",
     "@vuepress-reco/vuepress-plugin-back-to-top": "^1.0.3",
-    "@vuepress-reco/vuepress-plugin-loading-page": "^1.0.0",
     "@vuepress-reco/vuepress-plugin-pagation": "^1.0.3",
     "@vuepress-reco/vuepress-plugin-screenfull": "^1.0.0",
     "@vuepress-reco/vuepress-plugin-ga": "^1.0.2",

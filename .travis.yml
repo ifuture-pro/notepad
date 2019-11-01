@@ -2,6 +2,7 @@ language: node_js
 node_js:
 - lts/*
 script:
+- mv docs/.vuepress/config.js.template docs/.vuepress/config.js
 - npm run build
 deploy:
   provider: pages
