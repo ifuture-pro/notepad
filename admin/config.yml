@@ -1,0 +1,28 @@
+backend:
+  name: github
+  repo: ifuture-pro/notepad
+  branch: master
+
+public_folder: "assets/img"
+media_folder: "docs/.vuepress/public/assets/img"
+
+collections:
+- name: "posts"
+  label: "Posts"
+  folder: "docs/views"
+  create: true
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  fields:
+  - {label: "标题", name: "title", widget: "string"}
+  - {label: "时间", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm"}
+  - {label: "目录", name: "sidebar", widget: "boolean", default: true, hint: "是否开启位于文章左侧的文章目录导航"}
+  - {label: "允许评价", name: "isShowComments", widget: "boolean", default: true}
+  - {label: "发布", name: "publish", widget: "boolean", default: true}
+  - {label: "作者", name: "author", widget: "string", default: "未来编写者"}
+  - {label: "密码", name: "keys", widget: "list", required: false}
+  - {label: "标签", name: "tags", widget: "list", required: false}
+  - {label: "分类", name: "categories", widget: "list", required: false}
+  - {label: "附件", name: "files", widget: "file", required: false}
+  - {label: "封面图", name: "thumbnail", widget: "image", required: false}
+  - {label: "位置", name: "location", widget: "map", required: false}
+  - {label: "内容", name: "body", widget: "markdown"}
