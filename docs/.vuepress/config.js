@@ -1,7 +1,6 @@
 module.exports = {
   "title": "未来编写者",
   "description": "未来编写者,做好自己，做更好的自己",
-  "base": "/notepad/",
   "dest": "public",
   "head": [
     [

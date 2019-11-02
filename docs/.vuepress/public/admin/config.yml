@@ -19,7 +19,21 @@ collections:
   - {label: "允许评价", name: "isShowComments", widget: "boolean", default: true}
   - {label: "发布", name: "publish", widget: "boolean", default: true}
   - {label: "作者", name: "author", widget: "string", default: "未来编写者"}
-  - {label: "密码", name: "keys", widget: "list", required: false}
+  - {label: "描述", name: "description", widget: "string", required: false, hint: "主要用于SEO优化，对搜索引擎机器人可见"}
+#  - label: "SEO"
+#    name: "meta"
+#    widget: "list"
+#    required: false
+#    hint: "搜索引擎优化参数"
+#    fields:
+#      - label: "SEO DATA"
+#        widget: "object"
+#        required: false
+#        hint: "description or keywords"
+#        fields:
+#          - {label: "name", name: "name", widget: "string"}
+#          - {label: "content", name: "content", widget: "string"}
+  - {label: "密码", name: "keys", widget: "list", required: false, hint: "其实称之为密码不合理，因为所有文章(源码)都是‘公开’的，只是普通人没这么容易找到它"}
   - {label: "标签", name: "tags", widget: "list", required: false}
   - {label: "分类", name: "categories", widget: "list", required: false}
   - {label: "附件", name: "files", widget: "file", required: false}
