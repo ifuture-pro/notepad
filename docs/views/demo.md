@@ -5,13 +5,7 @@ sidebar: false
 isShowComments: false
 publish: false
 author: ifuture.pro
-meta:
-  - undefined:
-      content: 描述SEO
-      name: description
-  - undefined:
-      content: 关键字 seo 优化
-      name: keywords
+description: 描述信息，SEO优化
 keys:
   - '123123'
 tags:
