@@ -27,6 +27,7 @@ module.exports = (options, ctx) => ({
     '@vuepress/medium-zoom',
     '@vuepress/plugin-nprogress',
     '@vuepress/search',
+    'flowchart',
     ['@vuepress/plugin-blog', {
       permalink: '/:regular',
       frontmatters: [

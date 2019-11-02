@@ -4,6 +4,8 @@ date: 2019-10-31
 sidebar: false
 isShowComments: false
 author: ifuture.pro
+thumbnail: /assets/img/timg1.jpeg
+publish: false
 keys: 
     - '123123'
 tags:
@@ -11,7 +13,7 @@ tags:
 categories:
     - '其他'
 ---
-摘要信息
+摘要信息摘要信息摘要信息摘要信息摘要信息摘要信息摘要信息摘要信息摘要信息摘要信息摘要信息摘要信息摘要信息
 
 <!-- more -->
 

@@ -10,6 +10,7 @@
           :to="item.path">{{item.title}}</router-link>
       </div>
       <div class="abstract" v-html="item.excerpt"></div>
+      <img class="abstract" :src="item.frontmatter.thumbnail" style="max-height: 120px;"/>
       <hr>
       <PageInfo :pageInfo="item" :hideAccessNumber="!(hideAccessNumber !== true)" :currentTag="currentTag"></PageInfo>
     </div>
