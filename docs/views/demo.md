@@ -6,11 +6,11 @@ isShowComments: false
 publish: false
 author: ifuture.pro
 meta:
-  - metaObj:
-      content: 文章描述SEO优化
+  - undefined:
+      content: 描述SEO
       name: description
-  - metaObj:
-      content: 关键字 SEO 优化
+  - undefined:
+      content: 关键字 seo 优化
       name: keywords
 keys:
   - '123123'
