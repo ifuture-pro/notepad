@@ -15,7 +15,7 @@ collections:
   fields:
   - {label: "标题", name: "title", widget: "string"}
   - {label: "时间", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm"}
-  - {label: "目录", name: "sidebar", widget: "boolean", default: true, hint: "是否开启位于文章左侧的文章目录导航"}
+  - {label: "目录", name: "navbar", widget: "boolean", default: true, hint: "是否开启位于文章左侧的文章目录导航"}
   - {label: "允许评价", name: "isShowComments", widget: "boolean", default: true}
   - {label: "发布", name: "publish", widget: "boolean", default: true}
   - {label: "作者", name: "author", widget: "string", default: "未来编写者"}
