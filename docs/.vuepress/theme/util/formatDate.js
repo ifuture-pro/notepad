@@ -14,9 +14,14 @@ export const fromatDateTime = (time) => {
   m = m > 9 ? m : '0' + m
   let S = date.getSeconds()
   S = S > 9 ? S : '0' + S
+
+  let result =  Y + '/' + M + '/' + D;
   if (H > 0 && m >0 && S >0) {
-    return Y + '/' + M + '/' + D + ' ' + H + ':' + m + ':' + S
+    result += ' ' + H + ':' + m + ':' + S
   }
-  return Y + '/' + M + '/' + D
+  if (result.indexOf("NaN") != -1) {
+    return time;
+  }
+  return result;
 
 }

@@ -65,7 +65,7 @@ export default {
   },
   filters: {
     formatDate: function (value) {
-      if (!value) return ''
+      if (!value) return null
       return fromatDateTime(value)
     }
   },
