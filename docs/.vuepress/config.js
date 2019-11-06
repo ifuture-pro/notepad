@@ -68,6 +68,9 @@ module.exports = {
     "startYear": "2019"
   },
   "markdown": {
-    "lineNumbers": true
-  }
+    "lineNumbers": true,
+  },
+  "plugins": [
+    'flowchart'
+  ]
 }

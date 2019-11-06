@@ -2,12 +2,12 @@ language: node_js
 node_js:
 - lts/*
 script:
-- mv docs/.vuepress/config.js.template docs/.vuepress/config.js
+- sed -i 's#/notepad/#/#' docs/.vuepress/config.js
 - npm run build
 deploy:
   provider: pages
   skip-cleanup: true
-  local_dir: public # 项目打包后生成的文件的目录
+  local_dir: public
   github-token: $GITHUB_TOKEN
   target-branch: gh-pages
   keep-history: true
