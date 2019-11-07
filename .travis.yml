@@ -2,7 +2,8 @@ language: node_js
 node_js:
 - lts/*
 script:
-- sed -i \"/description/ a\'base\': \'/notepad/\',\" docs/.vuepress/config.js
+- |
+  sed -i "/description/ a'base': '/notepad/'," docs/.vuepress/config.js
 - npm run build
 deploy:
   provider: pages
