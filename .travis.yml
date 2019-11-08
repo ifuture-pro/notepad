@@ -4,7 +4,7 @@ node_js:
 script:
 - |
   sed -i "/description/ a'base': '/notepad/'," docs/.vuepress/config.js
-- npm run build
+- yarn run build
 deploy:
   provider: pages
   skip-cleanup: true

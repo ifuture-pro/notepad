@@ -2,6 +2,10 @@
   "name": "blog",
   "version": "1.0.0",
   "author": "zzz",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
