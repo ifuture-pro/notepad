@@ -674,6 +674,14 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
+"@ifuture/vuepress-plugin-rss@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@ifuture/vuepress-plugin-rss/-/vuepress-plugin-rss-1.0.2.tgz#4f1d348f79e5766943941d9d7f7f005c9dbe85b6"
+  integrity sha512-oTCN95JcDmvLrApRiTHogFapYy/3RjQyARpWUsAv27fP9+3SOghAONeuiWZ8buXXfRO2YYmavMyKHm8TcJf26Q==
+  dependencies:
+    nunjucks "^3.2.0"
+    podcast "^1.1.0"
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"

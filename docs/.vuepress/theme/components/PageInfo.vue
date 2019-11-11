@@ -8,7 +8,12 @@
     <i
       v-if="pageInfo.frontmatter.date"
       class="iconfont reco-date">
-      <span>{{ pageInfo.frontmatter.date | formatDate }}</span>
+      <span>创建于：{{ pageInfo.frontmatter.date | formatDate }}</span>
+    </i>
+    <i
+      v-if="pageInfo.lastUpdated"
+      class="iconfont reco-date">
+      <span>最后更新：{{ pageInfo.lastUpdated | formatDate }}</span>
     </i>
     <i
       v-if="$themeConfig.commentsSolution === 'valine' && (pageInfo.frontmatter.visits !== false || hideAccessNumber !== true)"

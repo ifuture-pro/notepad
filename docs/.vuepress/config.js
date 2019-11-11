@@ -38,6 +38,11 @@ module.exports = {
             "text": "关于",
             "link": "/views/other/about.html",
             "icon": "reco-account"
+          },
+          {
+            "text": "RSS",
+            "link": "/atom.xml",
+            "icon": "reco-account"
           }
         ]
       }
@@ -54,8 +59,8 @@ module.exports = {
       }
     },
     "valineConfig": {
-      appId: '$valine_appId',
-      appKey: '$valine_appKey',
+      appId: process.env.valine_appId,
+      appKey: process.env.valine_appKey,
     },
     "logo": "/head.png",
     "GAID": "UA-151103127-1",
@@ -73,7 +78,7 @@ module.exports = {
   },
   "plugins": [
     'flowchart',
-    [require('../../packages/vuepress-plugin-rss'), {
+    ['@ifuture/vuepress-plugin-rss', {
       type:['atom','rss2','podcast'],
       limit: 20,
       feedOptions : {
