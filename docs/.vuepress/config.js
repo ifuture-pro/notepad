@@ -41,7 +41,7 @@ module.exports = {
           },
           {
             "text": "RSS",
-            "link": "/atom.xml",
+            "link": "/atom.xml/",
             "icon": "reco-account"
           }
         ]
