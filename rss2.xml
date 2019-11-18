@@ -38,159 +38,53 @@
     </entry>
     
     <entry>
-        <title>你好</title>
-        <link href="https://note.ifuture.pro/views/2019-11-01-%E4%BD%A0%E5%A5%BD.html"/>
-        <id>https://note.ifuture.pro/views/2019-11-01-%E4%BD%A0%E5%A5%BD.html</id>
-        <published>2019-11-01T12:28:05.428Z</published>
-        <updated>11/6/2019, 2:35:11 PM</updated>
+        <title>开发日常杂项</title>
+        <link href="https://note.ifuture.pro/views/2019-11-04-%E5%BC%80%E5%8F%91%E6%97%A5%E5%B8%B8%E6%9D%82%E9%A1%B9.html"/>
+        <id>https://note.ifuture.pro/views/2019-11-04-%E5%BC%80%E5%8F%91%E6%97%A5%E5%B8%B8%E6%9D%82%E9%A1%B9.html</id>
+        <published>2019-11-04 15:55</published>
+        <updated>11/17/2019, 10:01:36 AM</updated>
         
         <summary type="html">
             
-            &lt;p&gt;&lt;img src=&quot;/assets/img/timg1.jpeg&quot; alt=&quot;pric&quot; title=&quot;pic title&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;你好，hello-world&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#你好，hello-world&quot;&gt;#&lt;/a&gt; 你好，Hello World&lt;/h2&gt;
-&lt;h1 id=&quot;welcome-to-stackedit&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#welcome-to-stackedit&quot;&gt;#&lt;/a&gt; Welcome to StackEdit!&lt;/h1&gt;
-&lt;p&gt;Hi! I&#39;m your first Markdown file in &lt;strong&gt;StackEdit&lt;/strong&gt;. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the &lt;strong&gt;file explorer&lt;/strong&gt; on the left corner of the navigation bar.&lt;/p&gt;
-&lt;h1 id=&quot;files&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#files&quot;&gt;#&lt;/a&gt; Files&lt;/h1&gt;
-&lt;p&gt;StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible &lt;strong&gt;offline!&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&quot;create-files-and-folders&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#create-files-and-folders&quot;&gt;#&lt;/a&gt; Create files and folders&lt;/h2&gt;
-&lt;p&gt;The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the &lt;strong&gt;New file&lt;/strong&gt; button in the file explorer. You can also create folders by clicking the &lt;strong&gt;New folder&lt;/strong&gt; button.&lt;/p&gt;
-&lt;h2 id=&quot;switch-to-another-file&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#switch-to-another-file&quot;&gt;#&lt;/a&gt; Switch to another file&lt;/h2&gt;
-&lt;p&gt;All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.&lt;/p&gt;
-&lt;h2 id=&quot;rename-a-file&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#rename-a-file&quot;&gt;#&lt;/a&gt; Rename a file&lt;/h2&gt;
-&lt;p&gt;You can rename the current file by clicking the file name in the navigation bar or by clicking the &lt;strong&gt;Rename&lt;/strong&gt; button in the file explorer.&lt;/p&gt;
-&lt;h2 id=&quot;delete-a-file&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#delete-a-file&quot;&gt;#&lt;/a&gt; Delete a file&lt;/h2&gt;
-&lt;p&gt;You can delete the current file by clicking the &lt;strong&gt;Remove&lt;/strong&gt; button in the file explorer. The file will be moved into the &lt;strong&gt;Trash&lt;/strong&gt; folder and automatically deleted after 7 days of inactivity.&lt;/p&gt;
-&lt;h2 id=&quot;export-a-file&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#export-a-file&quot;&gt;#&lt;/a&gt; Export a file&lt;/h2&gt;
-&lt;p&gt;You can export the current file by clicking &lt;strong&gt;Export to disk&lt;/strong&gt; in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.&lt;/p&gt;
-&lt;h1 id=&quot;synchronization&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#synchronization&quot;&gt;#&lt;/a&gt; Synchronization&lt;/h1&gt;
-&lt;p&gt;Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your &lt;strong&gt;Google Drive&lt;/strong&gt;, your &lt;strong&gt;Dropbox&lt;/strong&gt; and your &lt;strong&gt;GitHub&lt;/strong&gt; accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.&lt;/p&gt;
-&lt;p&gt;There are two types of synchronization and they can complement each other:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;To start syncing your workspace, just sign in with Google in the menu.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The file synchronization will keep one file of the workspace synced with one or multiple files in &lt;strong&gt;Google Drive&lt;/strong&gt;, &lt;strong&gt;Dropbox&lt;/strong&gt; or &lt;strong&gt;GitHub&lt;/strong&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Before starting to sync files, you must link an account in the &lt;strong&gt;Synchronize&lt;/strong&gt; sub-menu.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;open-a-file&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#open-a-file&quot;&gt;#&lt;/a&gt; Open a file&lt;/h2&gt;
-&lt;p&gt;You can open a file from &lt;strong&gt;Google Drive&lt;/strong&gt;, &lt;strong&gt;Dropbox&lt;/strong&gt; or &lt;strong&gt;GitHub&lt;/strong&gt; by opening the &lt;strong&gt;Synchronize&lt;/strong&gt; sub-menu and clicking &lt;strong&gt;Open from&lt;/strong&gt;. Once opened in the workspace, any modification in the file will be automatically synced.&lt;/p&gt;
-&lt;h2 id=&quot;save-a-file&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#save-a-file&quot;&gt;#&lt;/a&gt; Save a file&lt;/h2&gt;
-&lt;p&gt;You can save any file of the workspace to &lt;strong&gt;Google Drive&lt;/strong&gt;, &lt;strong&gt;Dropbox&lt;/strong&gt; or &lt;strong&gt;GitHub&lt;/strong&gt; by opening the &lt;strong&gt;Synchronize&lt;/strong&gt; sub-menu and clicking &lt;strong&gt;Save on&lt;/strong&gt;. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.&lt;/p&gt;
-&lt;h2 id=&quot;synchronize-a-file&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#synchronize-a-file&quot;&gt;#&lt;/a&gt; Synchronize a file&lt;/h2&gt;
-&lt;p&gt;Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.&lt;/p&gt;
-&lt;p&gt;If you just have modified your file and you want to force syncing, click the &lt;strong&gt;Synchronize now&lt;/strong&gt; button in the navigation bar.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The &lt;strong&gt;Synchronize now&lt;/strong&gt; button is disabled if you have no file to synchronize.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;manage-file-synchronization&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#manage-file-synchronization&quot;&gt;#&lt;/a&gt; Manage file synchronization&lt;/h2&gt;
-&lt;p&gt;Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking &lt;strong&gt;File synchronization&lt;/strong&gt; in the &lt;strong&gt;Synchronize&lt;/strong&gt; sub-menu. This allows you to list and remove synchronized locations that are linked to your file.&lt;/p&gt;
-&lt;h1 id=&quot;publication&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#publication&quot;&gt;#&lt;/a&gt; Publication&lt;/h1&gt;
-&lt;p&gt;Publishing in StackEdit makes it simple for you to publish online your files. Once you&#39;re happy with a file, you can publish it to different hosting platforms like &lt;strong&gt;Blogger&lt;/strong&gt;, &lt;strong&gt;Dropbox&lt;/strong&gt;, &lt;strong&gt;Gist&lt;/strong&gt;, &lt;strong&gt;GitHub&lt;/strong&gt;, &lt;strong&gt;Google Drive&lt;/strong&gt;, &lt;strong&gt;WordPress&lt;/strong&gt; and &lt;strong&gt;Zendesk&lt;/strong&gt;. With &lt;a href=&quot;http://handlebarsjs.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Handlebars templates&lt;OutboundLink/&gt;&lt;/a&gt;, you have full control over what you export.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Before starting to publish, you must link an account in the &lt;strong&gt;Publish&lt;/strong&gt; sub-menu.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;publish-a-file&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#publish-a-file&quot;&gt;#&lt;/a&gt; Publish a File&lt;/h2&gt;
-&lt;p&gt;You can publish your file by opening the &lt;strong&gt;Publish&lt;/strong&gt; sub-menu and by clicking &lt;strong&gt;Publish to&lt;/strong&gt;. For some locations, you can choose between the following formats:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Markdown: publish the Markdown text on a website that can interpret it (&lt;strong&gt;GitHub&lt;/strong&gt; for instance),&lt;/li&gt;
-&lt;li&gt;HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;update-a-publication&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#update-a-publication&quot;&gt;#&lt;/a&gt; Update a publication&lt;/h2&gt;
-&lt;p&gt;After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the &lt;strong&gt;Publish now&lt;/strong&gt; button in the navigation bar.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The &lt;strong&gt;Publish now&lt;/strong&gt; button is disabled if your file has not been published yet.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;manage-file-publication&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#manage-file-publication&quot;&gt;#&lt;/a&gt; Manage file publication&lt;/h2&gt;
-&lt;p&gt;Since one file can be published to multiple locations, you can list and manage publish locations by clicking &lt;strong&gt;File publication&lt;/strong&gt; in the &lt;strong&gt;Publish&lt;/strong&gt; sub-menu. This allows you to list and remove publication locations that are linked to your file.&lt;/p&gt;
-&lt;h1 id=&quot;markdown-extensions&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#markdown-extensions&quot;&gt;#&lt;/a&gt; Markdown extensions&lt;/h1&gt;
-&lt;p&gt;StackEdit extends the standard Markdown syntax by adding extra &lt;strong&gt;Markdown extensions&lt;/strong&gt;, providing you with some nice features.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;ProTip:&lt;/strong&gt; You can disable any &lt;strong&gt;Markdown extension&lt;/strong&gt; in the &lt;strong&gt;File properties&lt;/strong&gt; dialog.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;smartypants&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#smartypants&quot;&gt;#&lt;/a&gt; SmartyPants&lt;/h2&gt;
-&lt;p&gt;💯&lt;/p&gt;
-&lt;p&gt;SmartyPants converts ASCII punctuation characters into &amp;quot;smart&amp;quot; typographic punctuation HTML entities. For example:&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;ASCII&lt;/th&gt;
-&lt;th&gt;HTML&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Single backticks&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;&#39;Isn&#39;t this fun?&#39;&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&#39;Isn&#39;t this fun?&#39;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Quotes&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;&amp;quot;Isn&#39;t this fun?&amp;quot;&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&amp;quot;Isn&#39;t this fun?&amp;quot;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Dashes&lt;/td&gt;
-&lt;td&gt;&lt;code&gt;-- is en-dash, --- is em-dash&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;-- is en-dash, --- is em-dash&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&quot;katex&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#katex&quot;&gt;#&lt;/a&gt; KaTeX&lt;/h2&gt;
-&lt;p&gt;You can render LaTeX mathematical expressions using &lt;a href=&quot;https://khan.github.io/KaTeX/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;KaTeX&lt;OutboundLink/&gt;&lt;/a&gt;:&lt;/p&gt;
-&lt;p&gt;The &lt;em&gt;Gamma function&lt;/em&gt; satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral&lt;/p&gt;
-&lt;p&gt;$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt,.
-$$&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;You can find more information about &lt;strong&gt;LaTeX&lt;/strong&gt; mathematical expressions &lt;a href=&quot;http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;here&lt;OutboundLink/&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;uml-diagrams&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#uml-diagrams&quot;&gt;#&lt;/a&gt; UML diagrams&lt;/h2&gt;
-&lt;p&gt;You can render UML diagrams using &lt;a href=&quot;https://mermaidjs.github.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Mermaid&lt;OutboundLink/&gt;&lt;/a&gt;. For example, this will produce a sequence diagram:&lt;/p&gt;
-&lt;!--beforebegin--&gt;&lt;div class=&quot;language-mermaid line-numbers-mode&quot;&gt;&lt;!--afterbegin--&gt;&lt;pre v-pre class=&quot;language-text&quot;&gt;&lt;code&gt;sequenceDiagram
-Alice -&amp;gt;&amp;gt; Bob: Hello Bob, how are you?
-Bob--&amp;gt;&amp;gt;John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long&amp;lt;br/&amp;gt;long time, so long&amp;lt;br/&amp;gt;that the text does&amp;lt;br/&amp;gt;not fit on a row.
-
-Bob--&amp;gt;Alice: Checking with John...
-Alice-&amp;gt;John: Yes... John, how are you?
-&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&quot;line-numbers-wrapper&quot;&gt;&lt;span class=&quot;line-number&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line-number&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line-number&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line-number&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line-number&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line-number&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line-number&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line-number&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line-number&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;!--beforeend--&gt;&lt;/div&gt;&lt;!--afterend--&gt;&lt;p&gt;And this will produce a flow chart:&lt;/p&gt;
-&lt;!--beforebegin--&gt;&lt;div class=&quot;language-mermaid line-numbers-mode&quot;&gt;&lt;!--afterbegin--&gt;&lt;pre v-pre class=&quot;language-text&quot;&gt;&lt;code&gt;graph LR
-A[Square Rect] -- Link text --&amp;gt; B((Circle))
-A --&amp;gt; C(Round Rect)
-B --&amp;gt; D{Rhombus}
-C --&amp;gt; D
-&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&quot;line-numbers-wrapper&quot;&gt;&lt;span class=&quot;line-number&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line-number&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line-number&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line-number&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line-number&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;!--beforeend--&gt;&lt;/div&gt;&lt;!--afterend--&gt;&lt;FlowChart id=&quot;flowchart_64a56828&quot; :code=&quot;$dataBlock.flowchart_64a56828&quot; preset=&quot;vue&quot;&gt;&lt;/FlowChart&gt;
+            linux,mysql,git,vim常用操作
             
         </summary>
         
         
-        <category term="其他" scheme="https://note.ifuture.pro/categories/其他"/>
+        <category term="开发日常" scheme="https://note.ifuture.pro/categories/开发日常"/>
         
         
-        <category term="记录" scheme="https://note.ifuture.pro/tag/"/>
+    </entry>
+    
+    <entry>
+        <title>区块链概念汇总</title>
+        <link href="https://note.ifuture.pro/views/2019-11-06-%E5%8C%BA%E5%9D%97%E9%93%BE%E6%A6%82%E5%BF%B5%E6%B1%87%E6%80%BB.html"/>
+        <id>https://note.ifuture.pro/views/2019-11-06-%E5%8C%BA%E5%9D%97%E9%93%BE%E6%A6%82%E5%BF%B5%E6%B1%87%E6%80%BB.html</id>
+        <published>2019-11-06</published>
+        <updated>11/18/2019, 1:27:36 PM</updated>
         
-        <category term="分享" scheme="https://note.ifuture.pro/tag/"/>
+        <summary type="html">
+            
+            区块链
+            
+        </summary>
+        
+        
+        <category term="开发日常" scheme="https://note.ifuture.pro/categories/开发日常"/>
+        
+        
+        <category term="区块链" scheme="https://note.ifuture.pro/tag/"/>
+        
+        <category term="共识算法" scheme="https://note.ifuture.pro/tag/"/>
         
     </entry>
     
     <entry>
         <title>战争体验</title>
-        <link href="https://note.ifuture.pro/views/2019-11-03-%E6%88%98%E4%BA%89%E4%BD%93%E9%AA%8C.html"/>
-        <id>https://note.ifuture.pro/views/2019-11-03-%E6%88%98%E4%BA%89%E4%BD%93%E9%AA%8C.html</id>
+        <link href="https://note.ifuture.pro/views/notepad/2019-11-03-%E6%88%98%E4%BA%89%E4%BD%93%E9%AA%8C.html"/>
+        <id>https://note.ifuture.pro/views/notepad/2019-11-03-%E6%88%98%E4%BA%89%E4%BD%93%E9%AA%8C.html</id>
         <published>2019-11-03 12:39</published>
-        <updated>11/3/2019, 5:17:32 AM</updated>
+        <updated>11/18/2019, 1:27:36 PM</updated>
         
         <summary type="html">
             
@@ -215,30 +109,11 @@ C --&amp;gt; D
     </entry>
     
     <entry>
-        <title>开发日常杂项</title>
-        <link href="https://note.ifuture.pro/views/2019-11-04-%E5%BC%80%E5%8F%91%E6%97%A5%E5%B8%B8%E6%9D%82%E9%A1%B9.html"/>
-        <id>https://note.ifuture.pro/views/2019-11-04-%E5%BC%80%E5%8F%91%E6%97%A5%E5%B8%B8%E6%9D%82%E9%A1%B9.html</id>
-        <published>2019-11-04 15:55</published>
-        <updated>11/17/2019, 10:01:36 AM</updated>
-        
-        <summary type="html">
-            
-            linux,mysql,git,vim常用操作
-            
-        </summary>
-        
-        
-        <category term="开发日常" scheme="https://note.ifuture.pro/categories/开发日常"/>
-        
-        
-    </entry>
-    
-    <entry>
         <title>进步带来的毁灭</title>
-        <link href="https://note.ifuture.pro/views/2019-11-07-%E8%BF%9B%E6%AD%A5%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%AF%81%E7%81%AD.html"/>
-        <id>https://note.ifuture.pro/views/2019-11-07-%E8%BF%9B%E6%AD%A5%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%AF%81%E7%81%AD.html</id>
+        <link href="https://note.ifuture.pro/views/notepad/2019-11-07-%E8%BF%9B%E6%AD%A5%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%AF%81%E7%81%AD.html"/>
+        <id>https://note.ifuture.pro/views/notepad/2019-11-07-%E8%BF%9B%E6%AD%A5%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%AF%81%E7%81%AD.html</id>
         <published>2019-11-07</published>
-        <updated>11/8/2019, 3:00:17 PM</updated>
+        <updated>11/18/2019, 1:27:36 PM</updated>
         
         <summary type="html">
             
@@ -256,10 +131,10 @@ C --&amp;gt; D
     
     <entry>
         <title>科技带来的恐慌</title>
-        <link href="https://note.ifuture.pro/views/2019-11-12-%E7%A7%91%E6%8A%80%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%81%90%E6%85%8C.html"/>
-        <id>https://note.ifuture.pro/views/2019-11-12-%E7%A7%91%E6%8A%80%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%81%90%E6%85%8C.html</id>
+        <link href="https://note.ifuture.pro/views/notepad/2019-11-12-%E7%A7%91%E6%8A%80%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%81%90%E6%85%8C.html"/>
+        <id>https://note.ifuture.pro/views/notepad/2019-11-12-%E7%A7%91%E6%8A%80%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%81%90%E6%85%8C.html</id>
         <published>2019-11-12</published>
-        <updated>11/12/2019, 4:50:49 AM</updated>
+        <updated>11/18/2019, 1:27:36 PM</updated>
         
         <summary type="html">
             
