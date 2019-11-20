@@ -674,10 +674,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@ifuture/listify@^0.0.7":
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/@ifuture/listify/-/listify-0.0.7.tgz#264373f936e00f0f42d5535706042aaa429292bc"
-  integrity sha512-0YGNykFYFs6ihP79d11cKQxwKKN4D66ryCiJIt0YBrPOdiFADXQVhv1qCpY4gdNhXxI1L/y3TlDYBY0nHZ1elw==
+"@ifuture/listify@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@ifuture/listify/-/listify-0.1.0.tgz#d0edaf09b4a63c5f6fbf68a055581524f6201811"
+  integrity sha512-X8VCyY7Xl3dz9DqMZUCDPmbGIB39W/loCT3DD2klB8zaFNv+Ygou5mpCpipCHYUZ/oh0HWSIlsAB3N5jCW49Ow==
   dependencies:
     "@textlint/markdown-to-ast" "^6.1.6"
     emoji-regex "^8.0.0"

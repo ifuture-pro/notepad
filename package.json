@@ -9,7 +9,7 @@
     "listify": "listify ./"
   },
   "devDependencies": {
-    "@ifuture/listify": "^0.0.7",
+    "@ifuture/listify": "^0.1.0",
     "@ifuture/vuepress-plugin-rss": "^1.0.2",
     "@vuepress-reco/vuepress-plugin-back-to-top": "^1.0.3",
     "@vuepress-reco/vuepress-plugin-comments": "^1.0.8",
