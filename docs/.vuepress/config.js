@@ -64,6 +64,7 @@ module.exports = {
     },
     "logo": "/head.png",
     "GAID": "UA-151103127-1",
+    "BAIDUAID":"4dbb8b041342eacf260caef50dfb6ce8",
     "search": true,
     "searchMaxSuggestions": 10,
     "sidebar": "auto",
@@ -92,6 +93,7 @@ module.exports = {
         copyright: '未来编写者',
         language: 'zh'
       }
-    }]
+    }],
+    require('../../packages/vuepress-plugin-analytics/index.js')
   ]
 }

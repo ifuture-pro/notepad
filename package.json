@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "author": "zzz",
   "private": true,
+  "workspaces": ["packages/*"],
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
     "listify": "listify ./ --blog"
   },
   "devDependencies": {
-    "@ifuture/listify": "^0.1.3",
+    "@ifuture/listify": "^0.1.6",
     "@ifuture/vuepress-plugin-rss": "^1.0.2",
     "@vuepress-reco/vuepress-plugin-back-to-top": "^1.0.3",
     "@vuepress-reco/vuepress-plugin-comments": "^1.0.8",
