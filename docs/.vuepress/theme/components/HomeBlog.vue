@@ -34,6 +34,12 @@
           </div>
         </div>
         <hr>
+        <h4><i class="iconfont reco-about"></i> 关于</h4>
+        <ul class="category-wrapper">
+          <img src="personal-img" :src="$withBase('/assets/img/qrcode_for_mpwechat.jpg')"/>
+          <span>关注公众号。缔造一个全新的自己</span>
+        </ul>
+        <hr>
         <h4><i class="iconfont reco-category"></i> 分类</h4>
         <ul class="category-wrapper">
           <li class="category-item" v-for="(item, index) in this.$categories.list" :key="index">
