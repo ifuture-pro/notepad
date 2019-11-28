@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="https://www.w3.org/2005/Atom">
     <title>未来编写者</title>
-    <icon>https://note.ifuture.pro/head.png</icon>
+    <icon>https://blog.ifuture.pro/head.png</icon>
     
-    <link href="https://note.ifuture.pro/atom.xml" type="application/atom+xml" rel="self"/>
-    <link href="https://note.ifuture.pro/atom.xml" rel="hub"/>
-    <link href="https://note.ifuture.pro"/>
+    <link href="https://blog.ifuture.pro/atom.xml" type="application/atom+xml" rel="self"/>
+    <link href="https://blog.ifuture.pro/atom.xml" rel="hub"/>
+    <link href="https://blog.ifuture.pro"/>
     <updated>2019-09-27</updated>
-    <id>https://note.ifuture.pro</id>
+    <id>https://blog.ifuture.pro</id>
     
     <author>
         <name>未来编写者</name>
@@ -18,8 +18,8 @@
     
     <entry>
         <title>蚂蚁区块链大赛</title>
-        <link href="https://note.ifuture.pro/views/2019-09-27-%E8%9A%82%E8%9A%81%E5%8C%BA%E5%9D%97%E9%93%BE.html"/>
-        <id>https://note.ifuture.pro/views/2019-09-27-%E8%9A%82%E8%9A%81%E5%8C%BA%E5%9D%97%E9%93%BE.html</id>
+        <link href="https://blog.ifuture.pro/views/2019-09-27-%E8%9A%82%E8%9A%81%E5%8C%BA%E5%9D%97%E9%93%BE.html"/>
+        <id>https://blog.ifuture.pro/views/2019-09-27-%E8%9A%82%E8%9A%81%E5%8C%BA%E5%9D%97%E9%93%BE.html</id>
         <published>2019-09-27</published>
         <updated>11/8/2019, 3:00:17 PM</updated>
         
@@ -30,17 +30,17 @@
         </summary>
         
         
-        <category term="互联网见闻" scheme="https://note.ifuture.pro/categories/互联网见闻"/>
+        <category term="互联网见闻" scheme="https://blog.ifuture.pro/categories/互联网见闻"/>
         
         
-        <category term="区块链" scheme="https://note.ifuture.pro/tag/"/>
+        <category term="区块链" scheme="https://blog.ifuture.pro/tag/"/>
         
     </entry>
     
     <entry>
         <title>你好TEST</title>
-        <link href="https://note.ifuture.pro/views/2019-11-01-%E4%BD%A0%E5%A5%BD.html"/>
-        <id>https://note.ifuture.pro/views/2019-11-01-%E4%BD%A0%E5%A5%BD.html</id>
+        <link href="https://blog.ifuture.pro/views/2019-11-01-%E4%BD%A0%E5%A5%BD.html"/>
+        <id>https://blog.ifuture.pro/views/2019-11-01-%E4%BD%A0%E5%A5%BD.html</id>
         <published>2019-11-01T12:28:05.428Z</published>
         <updated>11/22/2019, 2:51:59 AM</updated>
         
@@ -176,19 +176,19 @@ C --&amp;gt; D
         </summary>
         
         
-        <category term="其他" scheme="https://note.ifuture.pro/categories/其他"/>
+        <category term="其他" scheme="https://blog.ifuture.pro/categories/其他"/>
         
         
-        <category term="记录" scheme="https://note.ifuture.pro/tag/"/>
+        <category term="记录" scheme="https://blog.ifuture.pro/tag/"/>
         
-        <category term="分享" scheme="https://note.ifuture.pro/tag/"/>
+        <category term="分享" scheme="https://blog.ifuture.pro/tag/"/>
         
     </entry>
     
     <entry>
         <title>战争体验</title>
-        <link href="https://note.ifuture.pro/views/notepad/2019-11-03-%E6%88%98%E4%BA%89%E4%BD%93%E9%AA%8C.html"/>
-        <id>https://note.ifuture.pro/views/notepad/2019-11-03-%E6%88%98%E4%BA%89%E4%BD%93%E9%AA%8C.html</id>
+        <link href="https://blog.ifuture.pro/views/notepad/2019-11-03-%E6%88%98%E4%BA%89%E4%BD%93%E9%AA%8C.html"/>
+        <id>https://blog.ifuture.pro/views/notepad/2019-11-03-%E6%88%98%E4%BA%89%E4%BD%93%E9%AA%8C.html</id>
         <published>2019-11-03 12:39</published>
         <updated>11/18/2019, 1:27:36 PM</updated>
         
@@ -205,19 +205,19 @@ C --&amp;gt; D
         </summary>
         
         
-        <category term="笔记" scheme="https://note.ifuture.pro/categories/笔记"/>
+        <category term="笔记" scheme="https://blog.ifuture.pro/categories/笔记"/>
         
-        <category term="随笔" scheme="https://note.ifuture.pro/categories/随笔"/>
+        <category term="随笔" scheme="https://blog.ifuture.pro/categories/随笔"/>
         
         
-        <category term="未来简史" scheme="https://note.ifuture.pro/tag/"/>
+        <category term="未来简史" scheme="https://blog.ifuture.pro/tag/"/>
         
     </entry>
     
     <entry>
         <title>进步带来的毁灭</title>
-        <link href="https://note.ifuture.pro/views/notepad/2019-11-07-%E8%BF%9B%E6%AD%A5%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%AF%81%E7%81%AD.html"/>
-        <id>https://note.ifuture.pro/views/notepad/2019-11-07-%E8%BF%9B%E6%AD%A5%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%AF%81%E7%81%AD.html</id>
+        <link href="https://blog.ifuture.pro/views/notepad/2019-11-07-%E8%BF%9B%E6%AD%A5%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%AF%81%E7%81%AD.html"/>
+        <id>https://blog.ifuture.pro/views/notepad/2019-11-07-%E8%BF%9B%E6%AD%A5%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%AF%81%E7%81%AD.html</id>
         <published>2019-11-07</published>
         <updated>11/18/2019, 1:27:36 PM</updated>
         
@@ -228,17 +228,17 @@ C --&amp;gt; D
         </summary>
         
         
-        <category term="随笔" scheme="https://note.ifuture.pro/categories/随笔"/>
+        <category term="随笔" scheme="https://blog.ifuture.pro/categories/随笔"/>
         
         
-        <category term="人工智能" scheme="https://note.ifuture.pro/tag/"/>
+        <category term="人工智能" scheme="https://blog.ifuture.pro/tag/"/>
         
     </entry>
     
     <entry>
         <title>科技带来的恐慌</title>
-        <link href="https://note.ifuture.pro/views/notepad/2019-11-12-%E7%A7%91%E6%8A%80%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%81%90%E6%85%8C.html"/>
-        <id>https://note.ifuture.pro/views/notepad/2019-11-12-%E7%A7%91%E6%8A%80%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%81%90%E6%85%8C.html</id>
+        <link href="https://blog.ifuture.pro/views/notepad/2019-11-12-%E7%A7%91%E6%8A%80%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%81%90%E6%85%8C.html"/>
+        <id>https://blog.ifuture.pro/views/notepad/2019-11-12-%E7%A7%91%E6%8A%80%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%81%90%E6%85%8C.html</id>
         <published>2019-11-12</published>
         <updated>11/18/2019, 1:27:36 PM</updated>
         
@@ -249,10 +249,10 @@ C --&amp;gt; D
         </summary>
         
         
-        <category term="随笔" scheme="https://note.ifuture.pro/categories/随笔"/>
+        <category term="随笔" scheme="https://blog.ifuture.pro/categories/随笔"/>
         
         
-        <category term="人工智能" scheme="https://note.ifuture.pro/tag/"/>
+        <category term="人工智能" scheme="https://blog.ifuture.pro/tag/"/>
         
     </entry>
     
