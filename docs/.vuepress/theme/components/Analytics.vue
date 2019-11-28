@@ -6,9 +6,6 @@ export default {
   mounted () {
     const GAID = this.$themeConfig.GAID
     const BAIDUAID = this.$themeConfig.BAIDUAID
-    console.log('````````````````````````');
-    console.log(GAID)
-    console.log(BAIDUAID)
 
     if (GAID) {
       const script = document.createElement('script')
@@ -27,7 +24,7 @@ export default {
 
       var _hmt = _hmt || [];
       var hm = document.createElement("script");
-      hm.src = "https://hm.baidu.com/hm.js?${BAIDUAID}";
+      hm.src = `https://hm.baidu.com/hm.js?${BAIDUAID}`;
       var s = document.getElementsByTagName("script")[0];
       s.parentNode.insertBefore(hm, s);
 
