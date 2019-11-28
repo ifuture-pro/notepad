@@ -26,10 +26,10 @@ export default {
     if (BAIDUAID) {
 
       var _hmt = _hmt || [];
-      const script = document.createElement('script')
-      script.src = `https://hm.baidu.com/hm.js?${BAIDUAID}`
-
-      document.body.append(script)
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?${BAIDUAID}";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
 
     }
   }
