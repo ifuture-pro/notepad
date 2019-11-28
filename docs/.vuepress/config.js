@@ -85,15 +85,14 @@ module.exports = {
       feedOptions : {
         title: '未来编写者',
         description: '未来编写者,做好自己，做更好的自己',
-        site_url: 'https://note.ifuture.pro',
-        image_url: 'https://note.ifuture.pro/head.png',
+        site_url: 'https://blog.ifuture.pro',
+        image_url: 'https://blog.ifuture.pro/head.png',
         author: '未来编写者',
         managingEditor: '未来编写者',
         webMaster: '未来编写者',
         copyright: '未来编写者',
         language: 'zh'
       }
-    }],
-    require('../../packages/vuepress-plugin-analytics/index.js')
+    }]
   ]
 }

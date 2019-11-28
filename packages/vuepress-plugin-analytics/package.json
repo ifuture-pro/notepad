@@ -2,5 +2,11 @@
   "name": "@ifuture/vuepress-plugin-analytics",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
 }

@@ -63,7 +63,7 @@
       </p>
     </div>
 
-    <GA></GA>
+    <Analytics></Analytics>
 
     <slot name="bottom"/>
   </main>
@@ -71,10 +71,11 @@
 
 <script>
 import PageInfo from '@theme/components/PageInfo'
+import Analytics from '@theme/components/Analytics'
 import { resolvePage, outboundRE, endingSlashRE } from '../util'
 
 export default {
-  components: { PageInfo },
+  components: { PageInfo, Analytics },
 
   props: ['sidebarItems'],
 

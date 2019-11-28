@@ -1,8 +1,6 @@
-const { path } = require('@vuepress/shared-utils')
+const { resolve }  = require('path')
 
-module.exports = (options, ctx) => ({
-  name: '@ifuture/vuepress-plugin-analytics',
-  enhanceAppFiles: [
-    path.resolve(__dirname, './bin/enhanceAppFile.js')
-  ]
-})
+module.exports = {
+  name:'@ifuture/vuepress-plugin-analytics',
+  enhanceAppFiles: resolve(__dirname, 'bin/enhanceAppFiles.js')
+}

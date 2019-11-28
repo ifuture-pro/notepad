@@ -33,7 +33,7 @@
         </div>
       </div>
     </transition>
-    <GA></GA>
+    <Analytics></Analytics>
   </div>
 </template>
 
@@ -42,9 +42,10 @@ import Navbar from '@theme/components/Navbar.vue'
 import Sidebar from '@theme/components/Sidebar.vue'
 import { resolveSidebarItems } from '../util'
 import Password from '@theme/components/Password'
+import Analytics from '@theme/components/Analytics'
 
 export default {
-  components: { Sidebar, Navbar, Password },
+  components: { Sidebar, Navbar, Password, Analytics },
 
   props: ['sidebar', 'isComment'],
 

@@ -2,10 +2,13 @@
 
 <script>
 export default {
-  name: 'GA',
+  name: 'Analytics',
   mounted () {
     const GAID = this.$themeConfig.GAID
     const BAIDUAID = this.$themeConfig.BAIDUAID
+    console.log('````````````````````````');
+    console.log(GAID)
+    console.log(BAIDUAID)
 
     if (GAID) {
       const script = document.createElement('script')
