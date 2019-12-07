@@ -59,10 +59,11 @@ Table of Contents
 
 
 
-# [2019-12-07-工作的危险](docs/views/notepad/2019-12-07-工作的危险.md#2019-12-07-%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%8D%B1%E9%99%A9)
+# [工作的危险](docs/views/notepad/2019-12-07-工作的危险.md#%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%8D%B1%E9%99%A9)
 
 
 <!-- end listify -->
+
 
 
 
