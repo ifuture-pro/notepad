@@ -62,7 +62,13 @@ Table of Contents
 # [工作的危险](docs/views/notepad/2019-12-07-工作的危险.md#%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%8D%B1%E9%99%A9)
 
 
+
+# [其实你才是天才](docs/views/notepad/2019-12-30-其实你也是天才.md#%E5%85%B6%E5%AE%9E%E4%BD%A0%E6%89%8D%E6%98%AF%E5%A4%A9%E6%89%8D)
+
+     - [刻意练习](docs/views/notepad/2019-12-30-其实你也是天才.md#%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0)
+     - [其实你正在刻意练习](docs/views/notepad/2019-12-30-其实你也是天才.md#%E5%85%B6%E5%AE%9E%E4%BD%A0%E6%AD%A3%E5%9C%A8%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0)
 <!-- end listify -->
+
 
 
 
