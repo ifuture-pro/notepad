@@ -67,7 +67,12 @@ Table of Contents
 
      - [刻意练习](docs/views/notepad/2019-12-30-其实你也是天才.md#%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0)
      - [其实你正在刻意练习](docs/views/notepad/2019-12-30-其实你也是天才.md#%E5%85%B6%E5%AE%9E%E4%BD%A0%E6%AD%A3%E5%9C%A8%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0)
+
+# [人工智能正在实现希特勒的愿景](docs/views/notepad/2020-01-04-人工智能在实现希特勒的愿景.md#%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%AD%A3%E5%9C%A8%E5%AE%9E%E7%8E%B0%E5%B8%8C%E7%89%B9%E5%8B%92%E7%9A%84%E6%84%BF%E6%99%AF)
+
+
 <!-- end listify -->
+
 
 
 
