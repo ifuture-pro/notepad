@@ -17,7 +17,7 @@
     </i>
     <i
       v-if="$themeConfig.commentsSolution === 'valine' && (pageInfo.frontmatter.visits !== false || hideAccessNumber !== true)"
-      class="iconfont reco-eye">
+      class="iconfont reco-eye" style="display: none;">
       <AccessNumber
         :idVal="pageInfo.path"
         :numStyle="numStyle" />
