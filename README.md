@@ -47,6 +47,10 @@ Table of Contents
    - [KaTeX](docs/views/2019-11-01-你好.md#katex)
    - [UML diagrams](docs/views/2019-11-01-你好.md#uml-diagrams)
 
+# [互联网公司怎么追踪你的上网行为](docs/views/2020-01-17-互联网公司是怎么追踪你的行为.md#%E4%BA%92%E8%81%94%E7%BD%91%E5%85%AC%E5%8F%B8%E6%80%8E%E4%B9%88%E8%BF%BD%E8%B8%AA%E4%BD%A0%E7%9A%84%E4%B8%8A%E7%BD%91%E8%A1%8C%E4%B8%BA)
+
+
+
 # [战争体验](docs/views/notepad/2019-11-03-战争体验.md#%E6%88%98%E4%BA%89%E4%BD%93%E9%AA%8C)
 
 
@@ -65,13 +69,14 @@ Table of Contents
 
 # [其实你才是天才](docs/views/notepad/2019-12-30-其实你也是天才.md#%E5%85%B6%E5%AE%9E%E4%BD%A0%E6%89%8D%E6%98%AF%E5%A4%A9%E6%89%8D)
 
-     - [刻意练习](docs/views/notepad/2019-12-30-其实你也是天才.md#%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0)
-     - [其实你正在刻意练习](docs/views/notepad/2019-12-30-其实你也是天才.md#%E5%85%B6%E5%AE%9E%E4%BD%A0%E6%AD%A3%E5%9C%A8%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0)
+   - [刻意练习](docs/views/notepad/2019-12-30-其实你也是天才.md#%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0)
+   - [其实你正在刻意练习](docs/views/notepad/2019-12-30-其实你也是天才.md#%E5%85%B6%E5%AE%9E%E4%BD%A0%E6%AD%A3%E5%9C%A8%E5%88%BB%E6%84%8F%E7%BB%83%E4%B9%A0)
 
 # [人工智能正在实现希特勒的愿景](docs/views/notepad/2020-01-04-人工智能在实现希特勒的愿景.md#%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%AD%A3%E5%9C%A8%E5%AE%9E%E7%8E%B0%E5%B8%8C%E7%89%B9%E5%8B%92%E7%9A%84%E6%84%BF%E6%99%AF)
 
 
 <!-- end listify -->
+
 
 
 
