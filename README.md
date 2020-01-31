@@ -75,7 +75,12 @@ Table of Contents
 # [人工智能正在实现希特勒的愿景](docs/views/notepad/2020-01-04-人工智能在实现希特勒的愿景.md#%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%AD%A3%E5%9C%A8%E5%AE%9E%E7%8E%B0%E5%B8%8C%E7%89%B9%E5%8B%92%E7%9A%84%E6%84%BF%E6%99%AF)
 
 
+
+# [真的给你机会了](docs/views/notepad/2020-01-31-真给你机会了.md#%E7%9C%9F%E7%9A%84%E7%BB%99%E4%BD%A0%E6%9C%BA%E4%BC%9A%E4%BA%86)
+
+
 <!-- end listify -->
+
 
 
 
