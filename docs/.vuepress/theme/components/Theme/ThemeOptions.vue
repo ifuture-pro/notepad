@@ -35,8 +35,10 @@ export default {
   },
 
   mounted () {
-    const theme = localStorage.getItem('reco-theme')
-    if (theme) this.setTheme(theme)
+    let theme = localStorage.getItem('reco-theme')
+    if (!theme)
+      theme = 'red'
+    this.setTheme(theme)
   },
 
   methods: {
