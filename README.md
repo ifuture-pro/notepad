@@ -79,7 +79,16 @@ Table of Contents
 # [真的给你机会了](docs/views/notepad/2020-01-31-真给你机会了.md#%E7%9C%9F%E7%9A%84%E7%BB%99%E4%BD%A0%E6%9C%BA%E4%BC%9A%E4%BA%86)
 
 
+
+# [中小企业怎么度过财务危机](docs/views/notepad/2020-02-06-中小企业怎么度过财务危机.md#%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E6%80%8E%E4%B9%88%E5%BA%A6%E8%BF%87%E8%B4%A2%E5%8A%A1%E5%8D%B1%E6%9C%BA)
+
+   - [个人](docs/views/notepad/2020-02-06-中小企业怎么度过财务危机.md#%E4%B8%AA%E4%BA%BA)
+   - [企业](docs/views/notepad/2020-02-06-中小企业怎么度过财务危机.md#%E4%BC%81%E4%B8%9A)
+     - [救命](docs/views/notepad/2020-02-06-中小企业怎么度过财务危机.md#%E6%95%91%E5%91%BD)
+     - [治病](docs/views/notepad/2020-02-06-中小企业怎么度过财务危机.md#%E6%B2%BB%E7%97%85)
+     - [养生](docs/views/notepad/2020-02-06-中小企业怎么度过财务危机.md#%E5%85%BB%E7%94%9F)
 <!-- end listify -->
+
 
 
 
