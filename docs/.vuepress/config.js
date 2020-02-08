@@ -1,6 +1,6 @@
 module.exports = {
   "title": "未来编写者",
-  "description": "未来编写者,做好自己，做更好的自己",
+  "description": "未来编写者,做好每一个自己，寻找下一个自己",
   "dest": "public",
   "head": [
     [
@@ -84,7 +84,7 @@ module.exports = {
       limit: 20,
       feedOptions : {
         title: '未来编写者',
-        description: '未来编写者,做好自己，做更好的自己',
+        description: '未来编写者,做好每一个自己，寻找下一个自己',
         site_url: 'https://blog.ifuture.pro',
         image_url: 'https://blog.ifuture.pro/head.png',
         author: '未来编写者',
