@@ -9,9 +9,13 @@
         <router-link
           :to="item.path">{{item.title}}</router-link>
       </div>
-      <div class="abstract" v-html="item.excerpt"></div>
-      <img class="abstract" :src="item.frontmatter.thumbnail" style="max-height: 120px;"/>
       <hr>
+      <img class="abstract" :src="item.frontmatter.thumbnail" style="max-height: 120px;"/>
+      <div class="abstract" v-if="item.excerpt" v-html="item.excerpt"></div>
+      <div class="abstract"  v-else-if="item.frontmatter.description" v-html="item.frontmatter.description"></div>
+      <div class="abstract" style="padding-bottom: 15px;">
+        <router-link  v-if="item.excerpt" :to="item.path">查看全文</router-link>
+      </div>
       <PageInfo :pageInfo="item" :hideAccessNumber="!(hideAccessNumber !== true)" :currentTag="currentTag"></PageInfo>
     </div>
   </div>

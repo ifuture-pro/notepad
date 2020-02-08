@@ -82,6 +82,7 @@ export default {
       let posts = this.$site.pages
       posts = this._filterPostData(posts)
       this._sortPostData(posts)
+      //console.log(posts)
       return posts
     },
 
