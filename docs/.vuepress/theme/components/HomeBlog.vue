@@ -23,7 +23,17 @@
       <div class="info-wrapper">
         <img class="personal-img" :src="$frontmatter.faceImage ? $withBase($frontmatter.faceImage) : require('../images/home-head.png')" alt="hero">
         <h3 class="name" v-if="$themeConfig.author || $site.title">{{ $themeConfig.author || $site.title }}</h3>
-        <div class="num">
+        <div class="info">
+          <i class="iconfont reco-github" target="_blank"></i>
+          <a href="https://github.com/ifuture-pro">Github</a>
+          |
+          <i class="iconfont reco-home" target="_blank"></i>
+          <a href="https://ifuture.com">编写者</a>
+          |
+          <i class="iconfont reco-api" target="_blank"></i>
+          <a href="https://github.com/ifuture-pro/developer-notes">Developer</a>
+        </div>
+<!--        <div class="num">
           <div>
             <h3>{{getPagesLength}}</h3>
             <h6>文章</h6>
@@ -32,7 +42,7 @@
             <h3>{{$tags.list.length}}</h3>
             <h6>标签</h6>
           </div>
-        </div>
+        </div>-->
         <hr>
         <a href="views/other/about.html">
         <h4><i class="iconfont reco-about"></i> 关于</h4>
@@ -65,10 +75,11 @@
 import TagList from '@theme/components/TagList.vue'
 import NoteAbstract from '@theme/components/NoteAbstract.vue'
 import mixin from '@theme/mixins/index.js'
+import NavLink from "./NavLink";
 
 export default {
   mixins: [mixin],
-  components: { NoteAbstract, TagList },
+  components: {NavLink, NoteAbstract, TagList },
   data () {
     return {
       recoShow: false,
