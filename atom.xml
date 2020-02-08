@@ -42,14 +42,17 @@
         <link href="https://blog.ifuture.pro/views/2019-11-01-%E4%BD%A0%E5%A5%BD.html"/>
         <id>https://blog.ifuture.pro/views/2019-11-01-%E4%BD%A0%E5%A5%BD.html</id>
         <published>2019-11-01T12:28:05.428Z</published>
-        <updated>11/22/2019, 2:51:59 AM</updated>
+        <updated>2/8/2020, 1:58:41 PM</updated>
         
         <summary type="html">
             
-            &lt;p&gt;&lt;img src=&quot;/assets/img/timg1.jpeg&quot; alt=&quot;pric&quot; title=&quot;pic title&quot;&gt;&lt;/p&gt;
+            &lt;div class=&quot;custom-block tip&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/timg1.jpeg&quot; alt=&quot;pric&quot; title=&quot;pic title&quot;&gt;&lt;/p&gt;
 &lt;h2 id=&quot;你好，hello-world&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#你好，hello-world&quot;&gt;#&lt;/a&gt; 你好，Hello World&lt;/h2&gt;
 &lt;h1 id=&quot;welcome-to-stackedit&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#welcome-to-stackedit&quot;&gt;#&lt;/a&gt; Welcome to StackEdit!&lt;/h1&gt;
 &lt;p&gt;Hi! I&#39;m your first Markdown file in &lt;strong&gt;StackEdit&lt;/strong&gt;. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the &lt;strong&gt;file explorer&lt;/strong&gt; on the left corner of the navigation bar.&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- more --&gt;
 &lt;h1 id=&quot;files&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#files&quot;&gt;#&lt;/a&gt; Files&lt;/h1&gt;
 &lt;p&gt;StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible &lt;strong&gt;offline!&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&quot;create-files-and-folders&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#create-files-and-folders&quot;&gt;#&lt;/a&gt; Create files and folders&lt;/h2&gt;
@@ -171,7 +174,7 @@ A --&amp;gt; C(Round Rect)
 B --&amp;gt; D{Rhombus}
 C --&amp;gt; D
 &lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&quot;line-numbers-wrapper&quot;&gt;&lt;span class=&quot;line-number&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line-number&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line-number&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line-number&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line-number&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;!--beforeend--&gt;&lt;/div&gt;&lt;!--afterend--&gt;&lt;FlowChart id=&quot;flowchart_64a56828&quot; :code=&quot;$dataBlock.flowchart_64a56828&quot; preset=&quot;vue&quot;&gt;&lt;/FlowChart&gt;
+&lt;div class=&quot;line-numbers-wrapper&quot;&gt;&lt;span class=&quot;line-number&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line-number&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line-number&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line-number&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line-number&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;!--beforeend--&gt;&lt;/div&gt;&lt;!--afterend--&gt;&lt;FlowChart id=&quot;flowchart_64a56822&quot; :code=&quot;$dataBlock.flowchart_64a56822&quot; preset=&quot;vue&quot;&gt;&lt;/FlowChart&gt;
             
         </summary>
         
@@ -211,7 +214,7 @@ C --&amp;gt; D
         <link href="https://blog.ifuture.pro/views/daily/2020-02-18-%E5%8E%9F%E6%9D%A5%E4%B8%8A%E7%8F%AD%E5%88%92%E6%B0%B4%E6%91%B8%E9%B1%BC%E6%98%AF%E6%9C%89%E7%9B%8A%E7%9A%84.html"/>
         <id>https://blog.ifuture.pro/views/daily/2020-02-18-%E5%8E%9F%E6%9D%A5%E4%B8%8A%E7%8F%AD%E5%88%92%E6%B0%B4%E6%91%B8%E9%B1%BC%E6%98%AF%E6%9C%89%E7%9B%8A%E7%9A%84.html</id>
         <published>2020-02-08T13:00:00+08:00</published>
-        <updated>2/8/2020, 12:03:55 PM</updated>
+        <updated>2/8/2020, 1:58:41 PM</updated>
         
         <summary type="html">
             
@@ -366,7 +369,7 @@ C --&amp;gt; D
         <link href="https://blog.ifuture.pro/views/notepad/2020-01-31-%E7%9C%9F%E7%BB%99%E4%BD%A0%E6%9C%BA%E4%BC%9A%E4%BA%86.html"/>
         <id>https://blog.ifuture.pro/views/notepad/2020-01-31-%E7%9C%9F%E7%BB%99%E4%BD%A0%E6%9C%BA%E4%BC%9A%E4%BA%86.html</id>
         <published>2020-01-31</published>
-        <updated>2/2/2020, 3:11:13 PM</updated>
+        <updated>2/8/2020, 1:58:41 PM</updated>
         
         <summary type="html">
             
@@ -382,6 +385,7 @@ C --&amp;gt; D
 &lt;li&gt;刷抖音，微博，吃鸡，王者荣耀差点就上“最强王者”了。&lt;/li&gt;
 &lt;li&gt;看书，学习，之前没时间看的书终于可以看了，之前感觉太长的教学视频终于可以细细看完了。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- more --&gt;
 &lt;p&gt;之前上班时总有借口“真的没时间，都累的不行了，哪有精力看书学英语啊”。现在总没这些借口了吧，我们会怎么做，真给我们机会了，我们在做什么？好好静下来想想 &lt;strong&gt;回答自己一个问题&lt;/strong&gt; 。&lt;/p&gt;
 &lt;p&gt;在离开家乡进入大学的这几年里，在社会上工作的这几年里 &lt;strong&gt;我做了什么，我做了什么，做啥了&lt;/strong&gt; 。哪件事是我拿的出手可以自豪的告诉别人这是我这几年的成果，我的作品。&lt;/p&gt;
 &lt;ul&gt;
