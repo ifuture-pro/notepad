@@ -2,8 +2,6 @@ language: node_js
 node_js:
 - lts/*
 script:
-- |
-  sed -i "/description/ a'base': '/notepad/'," docs/.vuepress/config.js
 - yarn run build
 deploy:
   provider: pages
