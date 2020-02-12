@@ -18,8 +18,8 @@ home:
   title: 首页
 
 archive:
-  title: 归档
-  subtitle: 归档
+  title: 时间
+  subtitle: 时间
 
 tag:
   title: 标签
@@ -31,7 +31,7 @@ category:
 
 about:
   title: 关于
-  subtitle: 关于
+  subtitle: 未来编写者
 
 page404:
   title: 页面走丢啦~
