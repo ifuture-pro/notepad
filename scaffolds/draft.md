@@ -5,6 +5,7 @@ index_img: /img/example.jpg
 banner_img: /img/post_banner.jpg
 date: 2019-10-10 10:00:00
 toc: false
+comments: false
 categories:
 - [Diary, PlayStation]
 - [Diary, Games]
