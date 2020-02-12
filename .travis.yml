@@ -3,7 +3,7 @@ node_js:
 - lts/*
 script:
 - |
-  sed -i "/permalink_defaults/ a'root': '/notepad/'," _config.yml
+  sed -i "/permalink_defaults/ a'root': '/notepad/'" _config.yml
 - yarn run build
 deploy:
   provider: pages
