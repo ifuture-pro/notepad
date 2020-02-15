@@ -38,7 +38,7 @@
     
     <categories>
       
-      <category>Daily</category>
+      <category>笔记</category>
       
     </categories>
     
@@ -70,7 +70,7 @@
     
     <tags>
       
-      <tag>Daily</tag>
+      <tag>随笔</tag>
       
     </tags>
     
@@ -89,8 +89,6 @@
     <categories>
       
       <category>笔记</category>
-      
-      <category>随笔</category>
       
     </categories>
     
@@ -117,8 +115,6 @@
       
       <category>笔记</category>
       
-      <category>随笔</category>
-      
     </categories>
     
     
@@ -142,7 +138,7 @@
     
     <categories>
       
-      <category>一起认知技术</category>
+      <category>技术</category>
       
     </categories>
     
@@ -167,7 +163,7 @@
     
     <categories>
       
-      <category>随笔</category>
+      <category>笔记</category>
       
     </categories>
     
@@ -192,14 +188,14 @@
     
     <categories>
       
-      <category>随笔</category>
+      <category>笔记</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>随笔</tag>
+      <tag>笔记</tag>
       
     </tags>
     
@@ -293,8 +289,6 @@
     <categories>
       
       <category>笔记</category>
-      
-      <category>随笔</category>
       
     </categories>
     
