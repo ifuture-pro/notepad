@@ -75,6 +75,9 @@ Table of Contents
 # [君子不器](/source/_posts/君子不器.md#%E5%90%9B%E5%AD%90%E4%B8%8D%E5%99%A8)
 
    - [从现在看向未来](/source/_posts/君子不器.md#%E4%BB%8E%E7%8E%B0%E5%9C%A8%E7%9C%8B%E5%90%91%E6%9C%AA%E6%9D%A5)
+     - [寻找未知的自己](/source/_posts/君子不器.md#%E5%AF%BB%E6%89%BE%E6%9C%AA%E7%9F%A5%E7%9A%84%E8%87%AA%E5%B7%B1)
+     - [不限制自己](/source/_posts/君子不器.md#%E4%B8%8D%E9%99%90%E5%88%B6%E8%87%AA%E5%B7%B1)
+     - [不拘泥于表象](/source/_posts/君子不器.md#%E4%B8%8D%E6%8B%98%E6%B3%A5%E4%BA%8E%E8%A1%A8%E8%B1%A1)
    - [从未来看向现在](/source/_posts/君子不器.md#%E4%BB%8E%E6%9C%AA%E6%9D%A5%E7%9C%8B%E5%90%91%E7%8E%B0%E5%9C%A8)
 
 # [怎么才能早起(终极办法)](/source/_posts/怎么才能早起(终极办法).md#%E6%80%8E%E4%B9%88%E6%89%8D%E8%83%BD%E6%97%A9%E8%B5%B7%E7%BB%88%E6%9E%81%E5%8A%9E%E6%B3%95)
@@ -86,6 +89,24 @@ Table of Contents
    - [关键点](/source/_posts/技术人生路线图.md#%E5%85%B3%E9%94%AE%E7%82%B9)
    - [成长路线图](/source/_posts/技术人生路线图.md#%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF%E5%9B%BE)
 
+# [架构师成长路线](/source/_posts/架构师成长路线.md#%E6%9E%B6%E6%9E%84%E5%B8%88%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF)
+
+ - [什么是软件架构师](/source/_posts/架构师成长路线.md#%E4%BB%80%E4%B9%88%E6%98%AF%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E5%B8%88)
+ - [架构师级别](/source/_posts/架构师成长路线.md#%E6%9E%B6%E6%9E%84%E5%B8%88%E7%BA%A7%E5%88%AB)
+ - [基本工作内容](/source/_posts/架构师成长路线.md#%E5%9F%BA%E6%9C%AC%E5%B7%A5%E4%BD%9C%E5%86%85%E5%AE%B9)
+ - [应具备的技能](/source/_posts/架构师成长路线.md#%E5%BA%94%E5%85%B7%E5%A4%87%E7%9A%84%E6%8A%80%E8%83%BD)
+   - [1. 设计](/source/_posts/架构师成长路线.md#1-%E8%AE%BE%E8%AE%A1)
+   - [2. 决策](/source/_posts/架构师成长路线.md#2-%E5%86%B3%E7%AD%96)
+   - [3. 简化](/source/_posts/架构师成长路线.md#3-%E7%AE%80%E5%8C%96)
+   - [4. 编码](/source/_posts/架构师成长路线.md#4-%E7%BC%96%E7%A0%81)
+   - [5. 文档](/source/_posts/架构师成长路线.md#5-%E6%96%87%E6%A1%A3)
+   - [6. 沟通](/source/_posts/架构师成长路线.md#6-%E6%B2%9F%E9%80%9A)
+   - [7. 评估](/source/_posts/架构师成长路线.md#7-%E8%AF%84%E4%BC%B0)
+   - [8. 平衡](/source/_posts/架构师成长路线.md#8-%E5%B9%B3%E8%A1%A1)
+   - [9. 指导、答疑](/source/_posts/架构师成长路线.md#9-%E6%8C%87%E5%AF%BC%E7%AD%94%E7%96%91)
+   - [10. 市场](/source/_posts/架构师成长路线.md#10-%E5%B8%82%E5%9C%BA)
+ - [路线图](/source/_posts/架构师成长路线.md#%E8%B7%AF%E7%BA%BF%E5%9B%BE)
+
 # [疫情过后的几年](/source/_posts/疫情过后的几年.md#%E7%96%AB%E6%83%85%E8%BF%87%E5%90%8E%E7%9A%84%E5%87%A0%E5%B9%B4)
 
    - [短期影响](/source/_posts/疫情过后的几年.md#%E7%9F%AD%E6%9C%9F%E5%BD%B1%E5%93%8D)
@@ -95,7 +116,12 @@ Table of Contents
 # [苏轼他那多次落榜的父亲](/source/_posts/苏轼他那多次落榜的父亲.md#%E8%8B%8F%E8%BD%BC%E4%BB%96%E9%82%A3%E5%A4%9A%E6%AC%A1%E8%90%BD%E6%A6%9C%E7%9A%84%E7%88%B6%E4%BA%B2)
 
 
+
+# [读《人性的弱点》](/source/_posts/读《人性的弱点》.md#%E8%AF%BB%E4%BA%BA%E6%80%A7%E7%9A%84%E5%BC%B1%E7%82%B9)
+
+   - [如何认他人信服你](/source/_posts/读《人性的弱点》.md#%E5%A6%82%E4%BD%95%E8%AE%A4%E4%BB%96%E4%BA%BA%E4%BF%A1%E6%9C%8D%E4%BD%A0)
 <!-- end listify -->
+
 
 Thanks
 -------
