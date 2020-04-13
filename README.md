@@ -80,6 +80,10 @@ Table of Contents
      - [不拘泥于表象](/source/_posts/君子不器.md#%E4%B8%8D%E6%8B%98%E6%B3%A5%E4%BA%8E%E8%A1%A8%E8%B1%A1)
    - [从未来看向现在](/source/_posts/君子不器.md#%E4%BB%8E%E6%9C%AA%E6%9D%A5%E7%9C%8B%E5%90%91%E7%8E%B0%E5%9C%A8)
 
+# [嘈杂环境下的苟且红利](/source/_posts/嘈杂环境下的苟且红利.md#%E5%98%88%E6%9D%82%E7%8E%AF%E5%A2%83%E4%B8%8B%E7%9A%84%E8%8B%9F%E4%B8%94%E7%BA%A2%E5%88%A9)
+
+
+
 # [怎么才能早起(终极办法)](/source/_posts/怎么才能早起(终极办法).md#%E6%80%8E%E4%B9%88%E6%89%8D%E8%83%BD%E6%97%A9%E8%B5%B7%E7%BB%88%E6%9E%81%E5%8A%9E%E6%B3%95)
 
 
@@ -119,8 +123,12 @@ Table of Contents
 
 # [读《人性的弱点》](/source/_posts/读《人性的弱点》.md#%E8%AF%BB%E4%BA%BA%E6%80%A7%E7%9A%84%E5%BC%B1%E7%82%B9)
 
-   - [如何认他人信服你](/source/_posts/读《人性的弱点》.md#%E5%A6%82%E4%BD%95%E8%AE%A4%E4%BB%96%E4%BA%BA%E4%BF%A1%E6%9C%8D%E4%BD%A0)
+   - [如何与他人相处](/source/_posts/读《人性的弱点》.md#%E5%A6%82%E4%BD%95%E4%B8%8E%E4%BB%96%E4%BA%BA%E7%9B%B8%E5%A4%84)
+   - [如何赢得他人的喜欢](/source/_posts/读《人性的弱点》.md#%E5%A6%82%E4%BD%95%E8%B5%A2%E5%BE%97%E4%BB%96%E4%BA%BA%E7%9A%84%E5%96%9C%E6%AC%A2)
+   - [如何让他人信服你](/source/_posts/读《人性的弱点》.md#%E5%A6%82%E4%BD%95%E8%AE%A9%E4%BB%96%E4%BA%BA%E4%BF%A1%E6%9C%8D%E4%BD%A0)
+   - [如何友善的改变他人](/source/_posts/读《人性的弱点》.md#%E5%A6%82%E4%BD%95%E5%8F%8B%E5%96%84%E7%9A%84%E6%94%B9%E5%8F%98%E4%BB%96%E4%BA%BA)
 <!-- end listify -->
+
 
 
 Thanks
