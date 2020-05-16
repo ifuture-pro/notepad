@@ -3,12 +3,14 @@ title: Typora自动上传图片至Leancloud
 date: 2020-05-16 22:58
 tags: [技术杂项]
 categories: 技术
-index_img: 'https://i.loli.net/2020/03/19/9CTQWYksxq7migH.png'
+index_img: 'http://lc-3ocf2Sod.cn-n1.lcfile.com/GiPgglnYpLdsXMXQUdIDck14pjxOIk3VMscq6u3X.png'
 ---
 
 Typora 一个非常好用的轻巧的 Markdown 编辑工具
 
 Leancloud 良心企业，提供开发者版本，有一定的免费资源空间可以使用
+
+[Valine](https://valine.js.org/) 无后端评论系统 也是基于 LeanCloud 的，再次非常感谢 LeanCloud
 
 Typora [官方文档](https://support.typora.io/Upload-Image/#custom)中清楚的介绍了怎么自定义使用图片上传工具
 
