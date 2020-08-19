@@ -76,6 +76,15 @@ Table of Contents
      - [新冠肺炎区块链慈善溯源平台](/source/_posts/区块链要你何用.md#%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E5%8C%BA%E5%9D%97%E9%93%BE%E6%85%88%E5%96%84%E6%BA%AF%E6%BA%90%E5%B9%B3%E5%8F%B0)
    - [未来在哪](/source/_posts/区块链要你何用.md#%E6%9C%AA%E6%9D%A5%E5%9C%A8%E5%93%AA)
 
+# [博弈论](/source/_posts/博弈论.md#%E5%8D%9A%E5%BC%88%E8%AE%BA)
+
+   - [典型案例](/source/_posts/博弈论.md#%E5%85%B8%E5%9E%8B%E6%A1%88%E4%BE%8B)
+     - [囚徒困境](/source/_posts/博弈论.md#%E5%9B%9A%E5%BE%92%E5%9B%B0%E5%A2%83)
+     - [智猪博弈](/source/_posts/博弈论.md#%E6%99%BA%E7%8C%AA%E5%8D%9A%E5%BC%88)
+     - [三姬分金](/source/_posts/博弈论.md#%E4%B8%89%E5%A7%AC%E5%88%86%E9%87%91)
+     - [胆小鬼博弈](/source/_posts/博弈论.md#%E8%83%86%E5%B0%8F%E9%AC%BC%E5%8D%9A%E5%BC%88)
+     - [华容道](/source/_posts/博弈论.md#%E5%8D%8E%E5%AE%B9%E9%81%93)
+
 # [即兴演讲](/source/_posts/即兴演讲.md#%E5%8D%B3%E5%85%B4%E6%BC%94%E8%AE%B2)
 
    - [怎么讲话](/source/_posts/即兴演讲.md#%E6%80%8E%E4%B9%88%E8%AE%B2%E8%AF%9D)
@@ -194,6 +203,10 @@ Table of Contents
    - [中期影响](/source/_posts/疫情过后的几年.md#%E4%B8%AD%E6%9C%9F%E5%BD%B1%E5%93%8D)
    - [长期影响](/source/_posts/疫情过后的几年.md#%E9%95%BF%E6%9C%9F%E5%BD%B1%E5%93%8D)
 
+# [能力陷阱](/source/_posts/能力陷阱.md#%E8%83%BD%E5%8A%9B%E9%99%B7%E9%98%B1)
+
+
+
 # [苏轼他那多次落榜的父亲](/source/_posts/苏轼他那多次落榜的父亲.md#%E8%8B%8F%E8%BD%BC%E4%BB%96%E9%82%A3%E5%A4%9A%E6%AC%A1%E8%90%BD%E6%A6%9C%E7%9A%84%E7%88%B6%E4%BA%B2)
 
 
@@ -205,6 +218,7 @@ Table of Contents
    - [如何让他人信服你](/source/_posts/读《人性的弱点》.md#%E5%A6%82%E4%BD%95%E8%AE%A9%E4%BB%96%E4%BA%BA%E4%BF%A1%E6%9C%8D%E4%BD%A0)
    - [如何友善的改变他人](/source/_posts/读《人性的弱点》.md#%E5%A6%82%E4%BD%95%E5%8F%8B%E5%96%84%E7%9A%84%E6%94%B9%E5%8F%98%E4%BB%96%E4%BA%BA)
 <!-- end listify -->
+
 
 
 
